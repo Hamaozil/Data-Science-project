@@ -6,8 +6,10 @@ we will work on `Dubai Real Estate Goldmine, UAE Rental Market Data` which you c
 
 ~- بارت 2: تجمع داتاسيت لا تقل عن (10000 ريكورد) ولا تقل عن (10 فيتشرز أو أعمدة) .... الداتا دي لازم تكون محتاجة clean و preprocess .. متجبهاش نضيفة جاهزة ... تكون الداتا دي تشتغل مع الـ regression والـ Classification ... أي تيمين هياخدو نفس الداتاسيت الاتنين زيرو~
 
-- بارت 3: نضّف الداتا على قد ما تقدر ... زي الـ (Scaling - Normalization - Removing Duplications - Detecting and removing Outeliers) وهكذا
-- بارت 4: تحليل كامل للداتا .... توضّح من خلالها العلاقات بين الأعمدة وإزاي كل عمود بيأثر على التاني ... وهكذا
+~- بارت 3: نضّف الداتا على قد ما تقدر ... زي الـ (Scaling - Normalization - Removing Duplications - Detecting and removing Outeliers) وهكذا~
+
+~- بارت 4: تحليل كامل للداتا .... توضّح من خلالها العلاقات بين الأعمدة وإزاي كل عمود بيأثر على التاني ... وهكذا~
+
 - بارت 5: عمل فيجواليزيشن كامل للداتا ... توضح فيها الـ graphs دي (Line - Area - Histogram -Bar -Pie - Box -Scatter - Bubble ... ماتستخدمش matplot ولا seaborn ... لازم تستخدم plotly و cufflinks فقط لا غير
 - بارت 6-1: تعمل Feature Engineering ... سواء عن طريق Feature Selection أو إختيار احسن الفيتشرز الممكنة ... او عن طريق الـ Dimensionality Reduction
 - بارت 6-2: تبني الماشين أو الديب ليرنينج مودل بتاعك ... واحد للكلاسفكيشن وواحد للريجرشن .. وتعمل Evaluate بكل الـ metrics الممكنة (AUC - ROC - PRECISION - RECALL - ACCURACY - F1SCORE) ... متنساش تعمل Encoding لكل الاعمدة الي عندك وتعمل Cross-validation
