@@ -10,7 +10,8 @@ we will work on `Dubai Real Estate Goldmine, UAE Rental Market Data` which you c
 
 ~- بارت 4: تحليل كامل للداتا .... توضّح من خلالها العلاقات بين الأعمدة وإزاي كل عمود بيأثر على التاني ... وهكذا~
 
-- بارت 5: عمل فيجواليزيشن كامل للداتا ... توضح فيها الـ graphs دي (Line - Area - Histogram -Bar -Pie - Box -Scatter - Bubble ... ماتستخدمش matplot ولا seaborn ... لازم تستخدم plotly و cufflinks فقط لا غير
+~- بارت 5: عمل فيجواليزيشن كامل للداتا ... توضح فيها الـ graphs دي (Line - Area - Histogram -Bar -Pie - Box -Scatter - Bubble ... ماتستخدمش matplot ولا seaborn ... لازم تستخدم plotly و cufflinks فقط لا غير~
+
 - بارت 6-1: تعمل Feature Engineering ... سواء عن طريق Feature Selection أو إختيار احسن الفيتشرز الممكنة ... او عن طريق الـ Dimensionality Reduction
 - بارت 6-2: تبني الماشين أو الديب ليرنينج مودل بتاعك ... واحد للكلاسفكيشن وواحد للريجرشن .. وتعمل Evaluate بكل الـ metrics الممكنة (AUC - ROC - PRECISION - RECALL - ACCURACY - F1SCORE) ... متنساش تعمل Encoding لكل الاعمدة الي عندك وتعمل Cross-validation
 - بارت 7: لجزئية الكلاسفكيشن ... احذف عمود الـ Class وطبّق Clustering على الداتا
