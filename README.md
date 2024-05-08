@@ -17,4 +17,4 @@ we will work on `Dubai Real Estate Goldmine, UAE Rental Market Data` which you c
 ##### Finally:
 1-Make a models for regressions as Linear Regression and Random Forest Regressor model then print its results with MSE,MAE and R2 score
 2-Make a model for classifications as RandomForestClassifier, GradientBoostingClassifier,LogisticRegression,SVC and KNeighborsClassifier then make evaluations and print classification report
-3- perform Elbow method to choose the suitable number of clusters ,then use kmeans to make clustring
+3- perform Elbow method to choose the suitable number of clusters ,then use kmeans to make clustring 
